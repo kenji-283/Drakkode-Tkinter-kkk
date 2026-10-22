@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1,
+        "nombre": "adminKENji@drakkode.com",
+        "contraseña": "admin123",
+        "rol": "administrador",
+        "activo": true
+    },
+    {
+        "id": 2,
+        "nombre": "cliente@drakkode.com",
+        "contraseña": "cliente123",
+        "rol": "cliente",
+        "activo": true
+    },
+    {
+        "id": 3,
+        "nombre": "kaine3@drakkode.com",
+        "contraseña": "demo123",
+        "rol": "cliente",
+        "activo": true
+    },
+    {
+        "id": 4,
+        "nombre": "kim4@drakkode.com",
+        "contraseña": "demo123",
+        "rol": "cliente",
+        "activo": true
+    },
+    {
+        "id": 5,
+        "nombre": "krisss5@drakkode.com",
+        "contraseña": "demo123",
+        "rol": "desarrollador",
+        "activo": true
+    },
+    {
+        "id": 6,
+        "nombre": "Elieskerr.rbt@drakkode.com",
+        "contraseña": "Eliesk123",
+        "rol": "desarrollador",
+        "activo": true
+    }
+]
